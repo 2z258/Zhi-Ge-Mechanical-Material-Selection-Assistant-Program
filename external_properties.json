@@ -1,0 +1,1998 @@
+[
+  {
+    "material_grade": "6061",
+    "condition": "T6",
+    "source_title": "6061-T6 Aluminum :: MakeItFrom.com",
+    "source_url": "https://www.makeitfrom.com/material-properties/6061-T6-Aluminum",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "tensile_strength_mpa": {
+        "value": 310,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 270,
+        "unit": "MPa"
+      },
+      "elastic_modulus_gpa": {
+        "value": 69,
+        "unit": "GPa"
+      },
+      "hardness_brinell": {
+        "value": 93,
+        "unit": "HB"
+      },
+      "density_g_cm3": {
+        "value": 2.7,
+        "unit": "g/cm3"
+      },
+      "fatigue_strength_mpa": {
+        "value": 96,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 170,
+        "unit": "C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 170,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 24,
+        "unit": "um/m-K"
+      },
+      "electrical_conductivity_iacs": {
+        "value": 43,
+        "unit": "% IACS"
+      }
+    }
+  },
+  {
+    "material_grade": "7075",
+    "condition": "T6",
+    "source_title": "7075-T6 Aluminum :: MakeItFrom.com",
+    "source_url": "https://www.makeitfrom.com/material-properties/7075-T6-Aluminum",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "tensile_strength_mpa": {
+        "value": 560,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 480,
+        "unit": "MPa"
+      },
+      "elastic_modulus_gpa": {
+        "value": 70,
+        "unit": "GPa"
+      },
+      "hardness_brinell": {
+        "value": 150,
+        "unit": "HB"
+      },
+      "density_g_cm3": {
+        "value": 3.0,
+        "unit": "g/cm3"
+      },
+      "fatigue_strength_mpa": {
+        "value": 160,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 200,
+        "unit": "C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 130,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 23,
+        "unit": "um/m-K"
+      },
+      "electrical_conductivity_iacs": {
+        "value": 33,
+        "unit": "% IACS"
+      }
+    }
+  },
+  {
+    "material_grade": "Q235",
+    "condition": "",
+    "note": "以欧标 S235JR 等效参考",
+    "source_title": "EN 1.0038 (S235JR) Non-Alloy Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/EN-1.0038-S235JR-Non-Alloy-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 115.0,
+        "min": 110.0,
+        "max": 120.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 24.0,
+        "min": 23.0,
+        "max": 25.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 150.0,
+        "min": 140.0,
+        "max": 160.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 405.0,
+        "min": 380.0,
+        "max": 430.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 210.0,
+        "min": 200.0,
+        "max": 220.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 400.0,
+        "min": 400.0,
+        "max": 400.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 49.0,
+        "min": 49.0,
+        "max": 49.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 12.0,
+        "min": 12.0,
+        "max": 12.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "S45C",
+    "condition": "",
+    "note": "",
+    "source_title": "SAE-AISI 1045 (S45C, G10450) Carbon Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-1045-S45C-G10450-Carbon-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 185.0,
+        "min": 180.0,
+        "max": 190.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 15.5,
+        "min": 13.0,
+        "max": 18.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 295.0,
+        "min": 220.0,
+        "max": 370.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 650.0,
+        "min": 620.0,
+        "max": 680.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 455.0,
+        "min": 330.0,
+        "max": 580.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 400.0,
+        "min": 400.0,
+        "max": 400.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 51.0,
+        "min": 51.0,
+        "max": 51.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 12.0,
+        "min": 12.0,
+        "max": 12.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "40Cr",
+    "condition": "",
+    "note": "以 SAE 5140 等效参考",
+    "source_title": "SAE-AISI 5140 (SCr440, G51400) Chromium Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-5140-SCr440-G51400-Chromium-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 230.0,
+        "min": 170.0,
+        "max": 290.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 20.5,
+        "min": 12.0,
+        "max": 29.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 395.0,
+        "min": 220.0,
+        "max": 570.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 765.0,
+        "min": 560.0,
+        "max": 970.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 565.0,
+        "min": 290.0,
+        "max": 840.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 420.0,
+        "min": 420.0,
+        "max": 420.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 45.0,
+        "min": 45.0,
+        "max": 45.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 13.0,
+        "min": 13.0,
+        "max": 13.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "65Mn",
+    "condition": "",
+    "note": "以 SAE 1065 等效参考",
+    "source_title": "SAE-AISI 1065 (G10650) Carbon Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-1065-G10650-Carbon-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 220.0,
+        "min": 210.0,
+        "max": 230.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 12.5,
+        "min": 11.0,
+        "max": 14.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 305.0,
+        "min": 270.0,
+        "max": 340.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 745.0,
+        "min": 710.0,
+        "max": 780.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 490.0,
+        "min": 430.0,
+        "max": 550.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 400.0,
+        "min": 400.0,
+        "max": 400.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 51.0,
+        "min": 51.0,
+        "max": 51.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 11.0,
+        "min": 11.0,
+        "max": 11.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "301",
+    "condition": "Annealed",
+    "note": "",
+    "source_title": "AISI 301 (S30100) Stainless Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/AISI-301-S30100-Stainless-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 315.0,
+        "min": 190.0,
+        "max": 440.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 200.0,
+        "min": 200.0,
+        "max": 200.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 26.7,
+        "min": 7.4,
+        "max": 46.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 405.0,
+        "min": 210.0,
+        "max": 600.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1025.0,
+        "min": 590.0,
+        "max": 1460.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 655.0,
+        "min": 230.0,
+        "max": 1080.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 840.0,
+        "min": 840.0,
+        "max": 840.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 16.0,
+        "min": 16.0,
+        "max": 16.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 17.0,
+        "min": 17.0,
+        "max": 17.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "303",
+    "condition": "Annealed",
+    "note": "",
+    "source_title": "AISI 303 (S30300) Stainless Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/AISI-303-S30300-Stainless-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 190.0,
+        "min": 170.0,
+        "max": 210.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 200.0,
+        "min": 200.0,
+        "max": 200.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 45.5,
+        "min": 40.0,
+        "max": 51.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 295.0,
+        "min": 230.0,
+        "max": 360.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 645.0,
+        "min": 600.0,
+        "max": 690.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 325.0,
+        "min": 230.0,
+        "max": 420.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 930.0,
+        "min": 930.0,
+        "max": 930.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 16.0,
+        "min": 16.0,
+        "max": 16.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 17.0,
+        "min": 17.0,
+        "max": 17.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "304",
+    "condition": "Annealed",
+    "note": "",
+    "source_title": "AISI 304 (S30400) Stainless Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/AISI-304-S30400-Stainless-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 265.0,
+        "min": 170.0,
+        "max": 360.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 200.0,
+        "min": 200.0,
+        "max": 200.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 25.5,
+        "min": 8.0,
+        "max": 43.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 325.0,
+        "min": 210.0,
+        "max": 440.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 880.0,
+        "min": 580.0,
+        "max": 1180.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 545.0,
+        "min": 230.0,
+        "max": 860.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 710.0,
+        "min": 710.0,
+        "max": 710.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 16.0,
+        "min": 16.0,
+        "max": 16.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 17.0,
+        "min": 17.0,
+        "max": 17.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "316",
+    "condition": "Annealed",
+    "note": "",
+    "source_title": "AISI 316 (S31600) Stainless Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/AISI-316-S31600-Stainless-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 260.0,
+        "min": 160.0,
+        "max": 360.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 200.0,
+        "min": 200.0,
+        "max": 200.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 31.5,
+        "min": 8.0,
+        "max": 55.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 320.0,
+        "min": 210.0,
+        "max": 430.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 850.0,
+        "min": 520.0,
+        "max": 1180.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 540.0,
+        "min": 230.0,
+        "max": 850.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 590.0,
+        "min": 590.0,
+        "max": 590.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 15.0,
+        "min": 15.0,
+        "max": 15.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 16.0,
+        "min": 16.0,
+        "max": 16.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.9,
+        "min": 7.9,
+        "max": 7.9,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "420",
+    "condition": "Annealed",
+    "note": "",
+    "source_title": "AISI 420 (S42000) Stainless Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/AISI-420-S42000-Stainless-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 11.5,
+        "min": 8.0,
+        "max": 15.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 445.0,
+        "min": 220.0,
+        "max": 670.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1205.0,
+        "min": 690.0,
+        "max": 1720.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 845.0,
+        "min": 380.0,
+        "max": 1310.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 620.0,
+        "min": 620.0,
+        "max": 620.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 27.0,
+        "min": 27.0,
+        "max": 27.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 10.0,
+        "min": 10.0,
+        "max": 10.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.7,
+        "min": 7.7,
+        "max": 7.7,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "430",
+    "condition": "Annealed",
+    "note": "",
+    "source_title": "AISI 430 (S43000) Stainless Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/AISI-430-S43000-Stainless-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 160.0,
+        "min": 160.0,
+        "max": 160.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 200.0,
+        "min": 200.0,
+        "max": 200.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 24.0,
+        "min": 24.0,
+        "max": 24.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 180.0,
+        "min": 180.0,
+        "max": 180.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 500.0,
+        "min": 500.0,
+        "max": 500.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 260.0,
+        "min": 260.0,
+        "max": 260.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 870.0,
+        "min": 870.0,
+        "max": 870.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 25.0,
+        "min": 25.0,
+        "max": 25.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 10.0,
+        "min": 10.0,
+        "max": 10.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.7,
+        "min": 7.7,
+        "max": 7.7,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "440",
+    "condition": "Annealed",
+    "note": "",
+    "source_title": "AISI 440C (S44004) Stainless Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/AISI-440C-S44004-Stainless-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 200.0,
+        "min": 200.0,
+        "max": 200.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 8.0,
+        "min": 2.0,
+        "max": 14.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 550.0,
+        "min": 260.0,
+        "max": 840.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1340.0,
+        "min": 710.0,
+        "max": 1970.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 1175.0,
+        "min": 450.0,
+        "max": 1900.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 870.0,
+        "min": 870.0,
+        "max": 870.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 22.0,
+        "min": 22.0,
+        "max": 22.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 10.0,
+        "min": 10.0,
+        "max": 10.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.7,
+        "min": 7.7,
+        "max": 7.7,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "SUJ2",
+    "condition": "",
+    "note": "以 SAE 52100 等效参考",
+    "source_title": "SAE-AISI 52100 (G52986) Chromium Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-52100-G52986-Chromium-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 195.0,
+        "min": 180.0,
+        "max": 210.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 15.0,
+        "min": 10.0,
+        "max": 20.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 295.0,
+        "min": 250.0,
+        "max": 340.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1300.0,
+        "min": 590.0,
+        "max": 2010.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 460.0,
+        "min": 360.0,
+        "max": 560.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 430.0,
+        "min": 430.0,
+        "max": 430.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 47.0,
+        "min": 47.0,
+        "max": 47.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 12.5,
+        "min": 12.0,
+        "max": 13.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "SKD11",
+    "condition": "",
+    "note": "以 AISI D2 等效参考",
+    "source_title": "SAE-AISI D2 (T30402) Chromium Cold-Work Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-D2-T30402-Chromium-Cold-Work-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 10.5,
+        "min": 5.0,
+        "max": 16.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 585.0,
+        "min": 310.0,
+        "max": 860.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1380.0,
+        "min": 760.0,
+        "max": 2000.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 990.0,
+        "min": 470.0,
+        "max": 1510.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 31.0,
+        "min": 31.0,
+        "max": 31.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 11.0,
+        "min": 11.0,
+        "max": 11.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.7,
+        "min": 7.7,
+        "max": 7.7,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "SKD61",
+    "condition": "",
+    "note": "以 AISI H13 等效参考",
+    "source_title": "SAE-AISI H13 (T20813) Chromium Hot-Work Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-H13-T20813-Chromium-Hot-Work-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1255.0,
+        "min": 690.0,
+        "max": 1820.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 29.0,
+        "min": 29.0,
+        "max": 29.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 10.0,
+        "min": 10.0,
+        "max": 10.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "SKH9",
+    "condition": "",
+    "note": "以 AISI M2 等效参考",
+    "source_title": "SAE-AISI M2 (T11302) Molybdenum High-Speed Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-M2-T11302-Molybdenum-High-Speed-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 200.0,
+        "min": 200.0,
+        "max": 200.0,
+        "unit": "GPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1455.0,
+        "min": 760.0,
+        "max": 2150.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 22.0,
+        "min": 22.0,
+        "max": 22.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 10.0,
+        "min": 10.0,
+        "max": 10.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 8.4,
+        "min": 8.4,
+        "max": 8.4,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "P20",
+    "condition": "",
+    "note": "",
+    "source_title": "SAE-AISI P20 (T51620) Low-Carbon Mould Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-P20-T51620-Low-Carbon-Mould-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 795.0,
+        "min": 540.0,
+        "max": 1050.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 45.0,
+        "min": 45.0,
+        "max": 45.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 12.0,
+        "min": 12.0,
+        "max": 12.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.8,
+        "min": 7.8,
+        "max": 7.8,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "D2",
+    "condition": "",
+    "note": "",
+    "source_title": "SAE-AISI D2 (T30402) Chromium Cold-Work Steel (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/SAE-AISI-D2-T30402-Chromium-Cold-Work-Steel",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 10.5,
+        "min": 5.0,
+        "max": 16.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 585.0,
+        "min": 310.0,
+        "max": 860.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 1380.0,
+        "min": 760.0,
+        "max": 2000.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 990.0,
+        "min": 470.0,
+        "max": 1510.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 31.0,
+        "min": 31.0,
+        "max": 31.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 11.0,
+        "min": 11.0,
+        "max": 11.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.7,
+        "min": 7.7,
+        "max": 7.7,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "HT150",
+    "condition": "",
+    "note": "以普通灰铸铁等效参考",
+    "source_title": "Grey Cast Iron (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Grey-Cast-Iron",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 230.0,
+        "min": 160.0,
+        "max": 300.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 180.0,
+        "min": 180.0,
+        "max": 180.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 9.6,
+        "min": 9.6,
+        "max": 9.6,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 119.5,
+        "min": 69.0,
+        "max": 170.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 305.0,
+        "min": 160.0,
+        "max": 450.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 194.0,
+        "min": 98.0,
+        "max": 290.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 46.0,
+        "min": 46.0,
+        "max": 46.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 11.0,
+        "min": 11.0,
+        "max": 11.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 7.5,
+        "min": 7.5,
+        "max": 7.5,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "POM",
+    "condition": "",
+    "note": "赛钢以 POM 均聚物等效参考",
+    "source_title": "Acetal Homopolymer (POM-H) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Acetal-Homopolymer-POM-H",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elongation_percent": {
+        "value": 31.0,
+        "min": 7.0,
+        "max": 55.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 63.5,
+        "min": 60.0,
+        "max": 67.0,
+        "unit": "MPa"
+      },
+      "density_g_cm3": {
+        "value": 1.5,
+        "min": 1.4,
+        "max": 1.6,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "PA",
+    "condition": "",
+    "note": "尼龙以 PA66 等效参考",
+    "source_title": "Polyamide (PA, Nylon) 6/6 (66, Nylon 101) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polyamide-PA-Nylon-6-6-66-Nylon-101",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 12.3,
+        "min": 1.6,
+        "max": 23.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 24.4,
+        "min": 2.8,
+        "max": 46.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 150.0,
+        "min": 60.0,
+        "max": 240.0,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "material_grade": "PTFE",
+    "condition": "",
+    "note": "",
+    "source_title": "Polytetrafluoroethylene (PTFE) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polytetrafluoroethylene-PTFE",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elongation_percent": {
+        "value": 187.5,
+        "min": 75.0,
+        "max": 300.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 19.0,
+        "min": 13.0,
+        "max": 25.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 265.0,
+        "min": 260.0,
+        "max": 270.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.445,
+        "min": 0.24,
+        "max": 0.65,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 115.0,
+        "min": 110.0,
+        "max": 120.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 2.2,
+        "min": 2.1,
+        "max": 2.3,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "ABS",
+    "condition": "",
+    "note": "",
+    "source_title": "Acrylonitrile Butadiene Styrene (ABS) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Acrylonitrile-Butadiene-Styrene-ABS",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 2.3,
+        "min": 2.0,
+        "max": 2.6,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 26.75,
+        "min": 3.5,
+        "max": 50.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 73.5,
+        "min": 37.0,
+        "max": 110.0,
+        "unit": "MPa"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 88.0,
+        "min": 81.0,
+        "max": 95.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.2,
+        "min": 1.0,
+        "max": 1.4,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "PC",
+    "condition": "",
+    "note": "",
+    "source_title": "Polycarbonate (PC) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polycarbonate-PC",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elongation_percent": {
+        "value": 56.75,
+        "min": 3.5,
+        "max": 110.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 113.0,
+        "min": 66.0,
+        "max": 160.0,
+        "unit": "MPa"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 39.5,
+        "min": 10.0,
+        "max": 69.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.3,
+        "min": 1.2,
+        "max": 1.4,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "PEEK",
+    "condition": "",
+    "note": "",
+    "source_title": "Polyetheretherketone (PEEK) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polyetheretherketone-PEEK",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 14.0,
+        "min": 4.0,
+        "max": 24.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 22.3,
+        "min": 1.6,
+        "max": 43.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 148.5,
+        "min": 97.0,
+        "max": 200.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 330.0,
+        "min": 330.0,
+        "max": 330.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.59,
+        "min": 0.25,
+        "max": 0.93,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 33.5,
+        "min": 15.0,
+        "max": 52.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.4,
+        "min": 1.3,
+        "max": 1.5,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "PET",
+    "condition": "",
+    "note": "",
+    "source_title": "Polyethylene Terephthalate (PET, PETE) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polyethylene-Terephthalate-PET-PETE",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 7.25,
+        "min": 3.5,
+        "max": 11.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 36.25,
+        "min": 2.5,
+        "max": 70.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 100.0,
+        "min": 60.0,
+        "max": 140.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 80.0,
+        "min": 80.0,
+        "max": 80.0,
+        "unit": "°C"
+      },
+      "density_g_cm3": {
+        "value": 1.5,
+        "min": 1.4,
+        "max": 1.6,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "PMMA",
+    "condition": "",
+    "note": "亚克力",
+    "source_title": "Polymethylmethacrylate (PMMA, Acrylic) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polymethylmethacrylate-PMMA-Acrylic",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 3.2,
+        "min": 3.2,
+        "max": 3.2,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 4.0,
+        "min": 4.0,
+        "max": 4.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 71.0,
+        "min": 71.0,
+        "max": 71.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.19,
+        "min": 0.19,
+        "max": 0.19,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 76.0,
+        "min": 76.0,
+        "max": 76.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.2,
+        "min": 1.2,
+        "max": 1.2,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "PVC",
+    "condition": "",
+    "note": "硬质 PVC",
+    "source_title": "Unplasticized (Rigid) Polyvinyl Chloride (uPVC, PVC-U) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Unplasticized-Rigid-Polyvinyl-Chloride-uPVC-PVC-U",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 3.7,
+        "min": 3.7,
+        "max": 3.7,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 58.0,
+        "min": 58.0,
+        "max": 58.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 47.0,
+        "min": 47.0,
+        "max": 47.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 95.0,
+        "min": 95.0,
+        "max": 95.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.16,
+        "min": 0.16,
+        "max": 0.16,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 61.0,
+        "min": 61.0,
+        "max": 61.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.4,
+        "min": 1.4,
+        "max": 1.4,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "UPE",
+    "condition": "",
+    "note": "超高分子量聚乙烯",
+    "source_title": "Ultra High Molecular Weight Polyethylene (UHMW-PE) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Ultra-High-Molecular-Weight-Polyethylene-UHMW-PE",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "thermal_conductivity_w_mk": {
+        "value": 0.41,
+        "min": 0.41,
+        "max": 0.41,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 180.0,
+        "min": 180.0,
+        "max": 180.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 0.94,
+        "min": 0.94,
+        "max": 0.94,
+        "unit": "g/cm"
+      },
+      "elastic_modulus_gpa": {
+        "value": 0.8,
+        "min": 0.8,
+        "max": 0.8,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 400.0,
+        "min": 400.0,
+        "max": 400.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 49.0,
+        "min": 49.0,
+        "max": 49.0,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "material_grade": "PU",
+    "condition": "",
+    "note": "优力胶为聚氨酯弹性体",
+    "source_title": "Polyurethane Rubber (AU, EU) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polyurethane-Rubber-AU-EU",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elongation_percent": {
+        "value": 580.0,
+        "min": 580.0,
+        "max": 580.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 39.0,
+        "min": 39.0,
+        "max": 39.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 90.0,
+        "min": 90.0,
+        "max": 90.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.19,
+        "min": 0.19,
+        "max": 0.19,
+        "unit": "W/m-K"
+      }
+    }
+  },
+  {
+    "material_grade": "硅胶",
+    "condition": "",
+    "note": "硅橡胶",
+    "source_title": "Silicone Rubber (PMQ, PVMQ, VMQ) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Silicone-Rubber-PMQ-PVMQ-VMQ",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elongation_percent": {
+        "value": 480.0,
+        "min": 480.0,
+        "max": 480.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 8.0,
+        "min": 8.0,
+        "max": 8.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 220.0,
+        "min": 220.0,
+        "max": 220.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.23,
+        "min": 0.23,
+        "max": 0.23,
+        "unit": "W/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.2,
+        "min": 1.2,
+        "max": 1.2,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "Torlon",
+    "condition": "",
+    "note": "PAI 聚酰胺酰亚胺",
+    "source_title": "Polyamide-Imide (PAI) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Polyamide-Imide-PAI",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 6.15,
+        "min": 4.0,
+        "max": 8.3,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 7.5,
+        "min": 3.0,
+        "max": 12.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 140.0,
+        "min": 100.0,
+        "max": 180.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 260.0,
+        "min": 260.0,
+        "max": 260.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.395,
+        "min": 0.26,
+        "max": 0.53,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 24.5,
+        "min": 15.0,
+        "max": 34.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.5,
+        "min": 1.4,
+        "max": 1.6,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "电木",
+    "condition": "",
+    "note": "酚醛塑料",
+    "source_title": "Phenol Formaldehyde (PF, Phenolic) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Phenol-Formaldehyde-PF-Phenolic",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 3.8,
+        "min": 3.8,
+        "max": 3.8,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 2.0,
+        "min": 2.0,
+        "max": 2.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 48.0,
+        "min": 48.0,
+        "max": 48.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 150.0,
+        "min": 150.0,
+        "max": 150.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.25,
+        "min": 0.25,
+        "max": 0.25,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 120.0,
+        "min": 120.0,
+        "max": 120.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.3,
+        "min": 1.3,
+        "max": 1.3,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "UNILATE",
+    "condition": "",
+    "note": "尿素甲醛树脂",
+    "source_title": "Urea Formaldehyde (UF) (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/Urea-Formaldehyde-UF",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 9.0,
+        "min": 9.0,
+        "max": 9.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 30.0,
+        "min": 30.0,
+        "max": 30.0,
+        "unit": "MPa"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 0.4,
+        "min": 0.4,
+        "max": 0.4,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 55.0,
+        "min": 55.0,
+        "max": 55.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 1.5,
+        "min": 1.5,
+        "max": 1.5,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "5052",
+    "condition": "H32",
+    "note": "",
+    "source_title": "5052 (AlMg2.5, 3.3523, A95052) Aluminum (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/5052-AlMg2.5-3.3523-A95052-Aluminum",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "hardness_brinell": {
+        "value": 64.5,
+        "min": 46.0,
+        "max": 83.0,
+        "unit": "HB"
+      },
+      "elastic_modulus_gpa": {
+        "value": 68.0,
+        "min": 68.0,
+        "max": 68.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 11.55,
+        "min": 1.1,
+        "max": 22.0,
+        "unit": "%"
+      },
+      "fatigue_strength_mpa": {
+        "value": 103.0,
+        "min": 66.0,
+        "max": 140.0,
+        "unit": "MPa"
+      },
+      "tensile_strength_mpa": {
+        "value": 255.0,
+        "min": 190.0,
+        "max": 320.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 177.5,
+        "min": 75.0,
+        "max": 280.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 190.0,
+        "min": 190.0,
+        "max": 190.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 140.0,
+        "min": 140.0,
+        "max": 140.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 24.0,
+        "min": 24.0,
+        "max": 24.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 2.7,
+        "min": 2.7,
+        "max": 2.7,
+        "unit": "g/cm"
+      }
+    }
+  },
+  {
+    "material_grade": "黄铜",
+    "condition": "",
+    "note": "以 C26000 铜锌合金等效参考",
+    "source_title": "UNS C26000 (CW505L) Cartridge Brass (MakeItFrom.com)",
+    "source_url": "https://www.makeitfrom.com/material-properties/UNS-C26000-CW505L-Cartridge-Brass",
+    "accessed_at": "2026-09-07",
+    "properties": {
+      "elastic_modulus_gpa": {
+        "value": 110.0,
+        "min": 110.0,
+        "max": 110.0,
+        "unit": "GPa"
+      },
+      "elongation_percent": {
+        "value": 34.25,
+        "min": 2.5,
+        "max": 66.0,
+        "unit": "%"
+      },
+      "tensile_strength_mpa": {
+        "value": 500.0,
+        "min": 320.0,
+        "max": 680.0,
+        "unit": "MPa"
+      },
+      "yield_strength_mpa": {
+        "value": 340.0,
+        "min": 110.0,
+        "max": 570.0,
+        "unit": "MPa"
+      },
+      "temperature_max_c": {
+        "value": 140.0,
+        "min": 140.0,
+        "max": 140.0,
+        "unit": "°C"
+      },
+      "thermal_conductivity_w_mk": {
+        "value": 120.0,
+        "min": 120.0,
+        "max": 120.0,
+        "unit": "W/m-K"
+      },
+      "thermal_expansion_um_mk": {
+        "value": 20.0,
+        "min": 20.0,
+        "max": 20.0,
+        "unit": "µm/m-K"
+      },
+      "density_g_cm3": {
+        "value": 8.2,
+        "min": 8.2,
+        "max": 8.2,
+        "unit": "g/cm"
+      }
+    }
+  }
+]

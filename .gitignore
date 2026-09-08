@@ -1,0 +1,26 @@
+# Python cache and local tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Local runtime and generated output
+outputs/*
+!outputs/.gitkeep
+work/
+
+# Database backups and local machine state
+data/backups/
+*.log
+*.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep local vendored packages out of the source repository
+vendor/
