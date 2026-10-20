@@ -1,0 +1,27 @@
+{
+  "base": {"strength": 3, "hardness": 2, "stiffness": 3, "stability": 2, "fatigue": 2, "wear": 2, "toughness": 2, "impact": 2, "ductility": 1, "elasticity": 1, "corrosion": 2, "lightweight": 2, "machinability": 2, "weldability": 1, "casting": 1, "forging": 1, "stamping": 1, "heat_treatment": 1, "surface_treatment": 1, "cost": 2, "maintenance_cost": 1, "high_temp": 1, "low_temp": 1, "conductivity": 1, "thermal_conductivity": 1, "thermal_expansion": 1, "insulation": 1, "magnetic": 1},
+  "part_types": {
+    "轴": {"strength": 5, "fatigue": 5, "toughness": 4, "wear": 4, "machinability": 4},
+    "轴类": {"strength": 5, "fatigue": 5, "toughness": 4, "wear": 4, "machinability": 4},
+    "齿轮": {"strength": 5, "hardness": 5, "wear": 5, "fatigue": 5, "heat_treatment": 4},
+    "齿轮轴": {"strength": 5, "hardness": 4, "wear": 5, "fatigue": 5, "toughness": 4, "heat_treatment": 4},
+    "底板": {"stiffness": 5, "strength": 4, "stability": 4, "machinability": 4, "cost": 4},
+    "框架": {"stiffness": 5, "strength": 4, "lightweight": 4, "weldability": 4, "machinability": 4},
+    "支架": {"strength": 4, "stiffness": 4, "stability": 4, "cost": 4, "machinability": 4},
+    "机架": {"strength": 4, "stiffness": 5, "stability": 4, "cost": 4, "weldability": 4},
+    "焊接结构件": {"strength": 4, "stiffness": 4, "weldability": 5, "machinability": 3, "cost": 4},
+    "弹簧": {"strength": 5, "elasticity": 5, "fatigue": 5, "toughness": 3},
+    "耐磨零件": {"hardness": 5, "wear": 5, "fatigue": 4, "strength": 4},
+    "高温零件": {"high_temp": 5, "stability": 4, "strength": 4},
+    "低温零件": {"low_temp": 5, "toughness": 4},
+    "密封/弹性零件": {"elasticity": 5, "toughness": 4, "corrosion": 3},
+    "铸件": {"casting": 5, "machinability": 3, "cost": 3},
+    "锻件": {"forging": 5, "strength": 4, "toughness": 4},
+    "冲压件": {"stamping": 5, "ductility": 4, "cost": 3},
+    "螺栓": {"strength": 5, "fatigue": 3, "corrosion": 3},
+    "螺母": {"strength": 4, "wear": 3, "machinability": 3},
+    "导轨": {"hardness": 5, "wear": 5, "stability": 4},
+    "滑块": {"wear": 5, "toughness": 3, "machinability": 3}
+  },
+  "loads": {"扭转": {"strength": 1, "fatigue": 1, "toughness": 1}, "冲击": {"toughness": 2, "impact": 2}, "摩擦": {"hardness": 2, "wear": 2}, "循环载荷": {"fatigue": 2}, "疲劳载荷": {"fatigue": 2}, "振动": {"fatigue": 1, "toughness": 1}, "接触载荷": {"hardness": 1, "wear": 1}, "局部高应力": {"strength": 2, "toughness": 1}, "焊接": {"stiffness": 1, "strength": 1, "weldability": 2, "machinability": 1}}
+}
